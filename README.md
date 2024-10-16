@@ -20,7 +20,7 @@ a helper function, which returns cardinality values of df's columns.
 
 which normalizes the df DataFrame. This function is flexible and allows to specify columns to normalize in many ways, including by providing a cardinality threshold for each column; if a column's cardinality does not exceed the threshold, the column will be normalized.
 
-The function's __doc__ contains a detailed description of the functions' arguments.
+The function's \_\_doc\_\_ contains a detailed description of the functions' arguments.
 
 The `main` module has a simple example of calling the function.
 
